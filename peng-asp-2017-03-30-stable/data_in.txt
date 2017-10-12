@@ -1,0 +1,300 @@
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token=my,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token=myUdit,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token=myUdAre,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='John',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='3',inputmode=text,editmode=parse,token='Udit',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='1',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='John',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='John',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='3',inputmode=text,editmode=parse,token=does,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='1',reasoner=off,reasonermode=normal])
+
+json([id='4',inputmode=text,editmode=parse,token=not,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='2',reasoner=off,reasonermode=normal])
+
+json([id='5',inputmode=text,editmode=parse,token=accommodate,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='3',reasoner=off,reasonermode=normal])
+
+json([id='6',inputmode=text,editmode=parse,token=shop,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='4',reasoner=off,reasonermode=normal])
+
+json([id='7',inputmode=text,editmode=parse,token=assistant,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='5',reasoner=off,reasonermode=normal])
+
+json([id='6',inputmode=text,editmode=parse,token=shop,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='4',reasoner=off,reasonermode=normal])
+
+json([id='7',inputmode=text,editmode=parse,token=assistant,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='5',reasoner=off,reasonermode=normal])
+
+json([id='8',inputmode=text,editmode=parse,token=('.'),nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='6',reasoner=on,reasonermode=normal])
+
+json([id='6',inputmode=text,editmode=parse,token=shop,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='4',reasoner=off,reasonermode=normal])
+
+json([id='7',inputmode=text,editmode=parse,token=assistant,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='5',reasoner=off,reasonermode=normal])
+
+json([id='6',inputmode=text,editmode=parse,token=shop,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='4',reasoner=off,reasonermode=normal])
+
+json([id='7',inputmode=text,editmode=parse,token=assistant,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='5',reasoner=off,reasonermode=normal])
+
+json([id='6',inputmode=text,editmode=parse,token=shop,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='4',reasoner=off,reasonermode=normal])
+
+json([id='5',inputmode=text,editmode=parse,token=accommodate,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='3',reasoner=off,reasonermode=normal])
+
+json([id='4',inputmode=text,editmode=parse,token=not,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='2',reasoner=off,reasonermode=normal])
+
+json([id='3',inputmode=text,editmode=parse,token=does,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='1',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='John',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='3',inputmode=text,editmode=parse,token=does,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='1',reasoner=off,reasonermode=normal])
+
+json([id='4',inputmode=text,editmode=parse,token=not,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='2',reasoner=off,reasonermode=normal])
+
+json([id='5',inputmode=text,editmode=parse,token=allocate,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='3',reasoner=off,reasonermode=normal])
+
+json([id='6',inputmode=text,editmode=parse,token=alice,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='4',reasoner=off,reasonermode=normal])
+
+json([id='5',inputmode=text,editmode=parse,token=allocate,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='3',reasoner=off,reasonermode=normal])
+
+json([id='4',inputmode=text,editmode=parse,token=not,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='2',reasoner=off,reasonermode=normal])
+
+json([id='3',inputmode=text,editmode=parse,token=does,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='1',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='John',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token=drink,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='Hello',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='-1',inputmode=text,editmode=load,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='-1',spos='-1',reasoner=off,reasonermode=normal])
+
+json([id='-1',inputmode=text,editmode=load,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='-1',spos='-1',reasoner=off,reasonermode=normal])
+
+json([id='-1',inputmode=text,editmode=load,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='-1',spos='-1',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='-1',inputmode=text,editmode=load,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='-1',spos='-1',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token=hwllo,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token=hwllohello,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='-1',inputmode=text,editmode=load,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='-1',spos='-1',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token=m,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='John',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='John',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='3',inputmode=text,editmode=parse,token=works,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='1',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='John',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='3',inputmode=text,editmode=parse,token=works,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='1',reasoner=off,reasonermode=normal])
+
+json([id='4',inputmode=text,editmode=parse,token=('.'),nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='2',reasoner=on,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='John',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='3',inputmode=text,editmode=parse,token=works,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='1',reasoner=off,reasonermode=normal])
+
+json([id='4',inputmode=text,editmode=parse,token=('.'),nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='2',reasoner=on,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='John',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='3',inputmode=text,editmode=parse,token=does,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='1',reasoner=off,reasonermode=normal])
+
+json([id='4',inputmode=text,editmode=parse,token=not,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='2',reasoner=off,reasonermode=normal])
+
+json([id='5',inputmode=text,editmode=parse,token=work,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='3',reasoner=off,reasonermode=normal])
+
+json([id='6',inputmode=text,editmode=parse,token=('.'),nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='4',reasoner=on,reasonermode=normal])
+
+json([id='7',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='2',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='8',inputmode=text,editmode=parse,token='My',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='2',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='8',inputmode=text,editmode=parse,token='Where',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='2',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='9',inputmode=text,editmode=parse,token=(is),nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='2',spos='1',reasoner=off,reasonermode=normal])
+
+json([id='8',inputmode=text,editmode=parse,token='Where',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='2',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='9',inputmode=text,editmode=parse,token=(is),nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='2',spos='1',reasoner=off,reasonermode=normal])
+
+json([id='8',inputmode=text,editmode=parse,token='Where',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='2',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='6',inputmode=text,editmode=parse,token=('.'),nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='2',spos='0',reasoner=on,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='My',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='My',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='John',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='Bob',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='3',inputmode=text,editmode=parse,token=does,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='1',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='My',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='MyJohn',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='MyJohn',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='John',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='3',inputmode=text,editmode=parse,token=works,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='1',reasoner=off,reasonermode=normal])
+
+json([id='4',inputmode=text,editmode=parse,token=('.'),nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='2',reasoner=on,reasonermode=normal])
+
+json([id='5',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='2',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='6',inputmode=text,editmode=parse,token=my,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='2',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='6',inputmode=text,editmode=parse,token='My',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='2',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='6',inputmode=text,editmode=parse,token='Johm',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='2',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='6',inputmode=text,editmode=parse,token='John',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='2',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='7',inputmode=text,editmode=parse,token=works,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='2',spos='1',reasoner=off,reasonermode=normal])
+
+json([id='8',inputmode=text,editmode=parse,token=hard,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='2',spos='2',reasoner=off,reasonermode=normal])
+
+json([id='9',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='3',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='10',inputmode=text,editmode=parse,token='How',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='3',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='8',inputmode=text,editmode=parse,token=hard,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='3',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='9',inputmode=text,editmode=parse,token=e,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='3',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='8',inputmode=text,editmode=parse,token=hard,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='3',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='7',inputmode=text,editmode=parse,token=works,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='3',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='8',inputmode=text,editmode=parse,token=many,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='3',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='7',inputmode=text,editmode=parse,token=works,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='3',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='6',inputmode=text,editmode=parse,token='John',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='3',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='7',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='4',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token=dsfdsfcsvsv,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token=dsfdsfcsvsvmanchesterchester,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='John',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='3',inputmode=text,editmode=parse,token=works,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='1',reasoner=off,reasonermode=normal])
+
+json([id='4',inputmode=text,editmode=parse,token=('.'),nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='2',reasoner=on,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='John',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='John',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='3',inputmode=text,editmode=parse,token='John',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='1',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='John',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='John',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='3',inputmode=text,editmode=parse,token=works,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='1',reasoner=off,reasonermode=normal])
+
+json([id='4',inputmode=text,editmode=parse,token=('.'),nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='2',reasoner=on,reasonermode=normal])
+
+json([id='5',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='2',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\\000\John',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='m\000\John',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='John',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='3',inputmode=text,editmode=parse,token=works,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='1',reasoner=off,reasonermode=normal])
+
+json([id='4',inputmode=text,editmode=parse,token=('.'),nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='2',reasoner=on,reasonermode=normal])
+
+json([id='5',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='2',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='1',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='2',inputmode=text,editmode=parse,token='John',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='0',reasoner=off,reasonermode=normal])
+
+json([id='3',inputmode=text,editmode=parse,token=works,nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='1',reasoner=off,reasonermode=normal])
+
+json([id='4',inputmode=text,editmode=parse,token=('.'),nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='1',spos='2',reasoner=on,reasonermode=normal])
+
+json([id='5',inputmode=text,editmode=parse,token=' ',nbest='[]',featurestructure='{ "cat" : " ",  "wfm" : " "}',filename=' ',spectext=' ',snum='2',spos='0',reasoner=off,reasonermode=normal])
+
