@@ -36,10 +36,19 @@ var textLineData = {
 
   },
 
-  addSentence: function(sentence) {
+addSentence: function(sentence) {
+  //  while(event.charCode==13 || document.getElementById("addButton-id").clicked == true)
+    //{
     this.sentences.push(sentence);
+  //  this.sentences.push(sentence2);
     this.firstIndexOfSentence = this.nodes.length;
+  //  this.sentences.push(sentence2);
+  //  this.firstIndexOfSentence = this.nodes.length;
+
+  //this.firstIndexofSentence = this.sentence.length;
 },
+
+
 
   removeTailNode: function() {
 
