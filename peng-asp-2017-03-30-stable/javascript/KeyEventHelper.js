@@ -28,19 +28,23 @@ var KeyHandler = {
 
       enterKey: function() {
         // changes made here
+          //  var i =0;
+            //var isEndOfSentence = viewModel.textAreaStr().charAt(viewModel.textAreaStr().length === " ");
+           var isEndOfSentence = viewModel.textAreaStr().charAt(viewModel.textAreaStr().length-1) == "." || viewModel.textAreaStr().charAt(viewModel.textAreaStr().length-1) == "?";
 
-            var isEndOfSentence = viewModel.textAreaStr().charAt(viewModel.textAreaStr().length === " ");
-            // var isEndOfSentence = viewModel.textAreaStr().charAt(viewModel.textAreaStr().length-1) == "." || viewModel.textAreaStr().charAt(viewModel.textAreaStr().length-1) == "?";
+
             if(isEndOfSentence) {
-                  var submitStr = viewModel.textAreaStr().replace(" .", ".");
-                  submitStr = submitStr.replace(" ?", "?");
+                  var submitStr = viewModel.textAreaStr();
+                  //.replace(" .", ".");
+                  //submitStr = submitStr.replace(" ?", "?");
                   textLineData.addSentence(submitStr);
                   viewModel.textList.push(submitStr);
                   viewModel.textAreaStr('');
                   viewModel.token('');
                   viewModel.$text_field.val('');
                   viewModel.init();
-            }
+
+          }
       },
 
       punctuation: function(chr) { //str is what to update currentWord
@@ -60,7 +64,7 @@ var KeyHandler = {
             }
       },
 
-
+/**
       backspace: function(d, e) {
             var keyVal = e.charCode;
 
@@ -110,7 +114,61 @@ var KeyHandler = {
                   viewModel.allowInput = true;
                   viewModel.asyncFlag = false;
             }
-      },
+      }, */
+
+
+      backspace: function(d, e) {
+                 var keyVal = e.keyCode;
+
+                 if (keyVal == 8) { //backspace detected
+                       if (viewModel.textAreaStr().length < viewModel.$text_field.val().length) {
+                             viewModel.textAreaStr(viewModel.$text_field.val()+" ");
+
+                       }
+                       var counter = 0;
+                       while (viewModel.textAreaStr() != viewModel.$text_field.val()) {
+                             viewModel.asyncFlag = false; // should be true
+                             viewModel.token(viewModel.token().slice(0, viewModel.token().length-1));
+                             var charBeingRemoved = viewModel.textAreaStr().slice(viewModel.textAreaStr().length-1, viewModel.textAreaStr().length);
+                             viewModel.textAreaStr(viewModel.textAreaStr().slice(0, viewModel.textAreaStr().length-1));
+                             // When backspace all the way to previous token
+
+                             //var currentIndexInPreviousToken = viewModel.textAreaStr().length == viewModel.firstIndexOfCurrentWord-1;
+                             var currentIndexInPreviousToken = charBeingRemoved == " " || charBeingRemoved == "," || charBeingRemoved == "." || charBeingRemoved == "?";
+                             if (currentIndexInPreviousToken) {
+                                   var tokenToBeDel = textLineData.nodes[textLineData.nodes.length-2];
+                                   this.updateToPreviousToken(charBeingRemoved);
+                                   //MIGHT NEED CHANGES
+                                   if(tokenToBeDel != " ") {
+                                         var pop = textLineData.removeTailNode();
+                                         viewModel.postToken(pop);
+                                         viewModel.lookUpTable(viewModel.lookahead.wordTable);
+                                         viewModel.currentInitialLookUpTable = viewModel.lookahead.wordTable;
+                                   }
+                                   else if(textLineData.nodes[textLineData.nodes.length-1] == " "){
+                                         viewModel.currentInitialLookUpTable = viewModel.initSentenceLookUp;
+                                         viewModel.lookaheadObject(viewModel.initLookUpObj);
+                                         viewModel.lookUpTable(viewModel.initSentenceLookUp);
+                                   }
+
+                                   viewModel.allowInput = true;
+                             }
+                             else {
+                                   viewModel.lookUpTable(viewModel.currentInitialLookUpTable);
+                             }
+                             counter++;
+
+                             if(counter > 50) {
+                                   viewModel.textAreaStr(viewModel.$text_field.val());
+                                   break;
+                             }
+                       }
+                       viewModel.allowInput = true;
+                       viewModel.asyncFlag = false;
+                 }
+           },
+
+
 
       updateToPreviousToken(charBeingRem) {
             var prevToken = textLineData.removeTailNode(); //also removes prev token
