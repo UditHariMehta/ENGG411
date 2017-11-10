@@ -4,7 +4,8 @@ var KeyHandler = {
             var keyID = e.keyCode == 13 ? e.keyCode : e.charCode;
             console.log(keyID)
             var keyVal = (String.fromCharCode(keyID)); // Character form
-            var charAllowed = (keyID != 13 && viewModel.token().charAt(viewModel.token().length-1) != "." && viewModel.token().charAt(viewModel.token().length-1) != "?") || keyID == 13;
+            var charAllowed = (keyID != 13 ) || keyID === 13;
+            //  var charAllowed = (keyID != 13 ) || keyID == 13;
 
             if(keyVal == " " && viewModel.textAreaStr().length == 0)
                   return false;
@@ -26,8 +27,10 @@ var KeyHandler = {
       },
 
       enterKey: function() {
-            var isEndOfSentence = viewModel.textAreaStr().charAt(viewModel.textAreaStr().length-1) == "." || viewModel.textAreaStr().charAt(viewModel.textAreaStr().length-1) == "?";
+        // changes made here
 
+            var isEndOfSentence = viewModel.textAreaStr().charAt(viewModel.textAreaStr().length === " ");
+            // var isEndOfSentence = viewModel.textAreaStr().charAt(viewModel.textAreaStr().length-1) == "." || viewModel.textAreaStr().charAt(viewModel.textAreaStr().length-1) == "?";
             if(isEndOfSentence) {
                   var submitStr = viewModel.textAreaStr().replace(" .", ".");
                   submitStr = submitStr.replace(" ?", "?");
@@ -46,9 +49,9 @@ var KeyHandler = {
             if(prevWord != "") {
                   viewModel.postToken(viewModel.token().slice(0, sizeOfWord));
             }
-            viewModel.firstIndexOfCurrentWord = viewModel.textAreaStr().length + 1;
+            viewModel.firstIndexOfCurrentWord = viewModel.textAreaStr().length ;
             if (chr == '.' || chr == '?') {
-                  if(viewModel.allowInput && $.inArray(chr, viewModel.lookUpTable()) != -1)
+                  if( $.inArray(chr, viewModel.lookUpTable()) != -1)
                         viewModel.postToken(chr);
                   else {
                         textLineData.sposNum--;
@@ -68,7 +71,7 @@ var KeyHandler = {
                   }
                   var counter = 0;
                   while (viewModel.textAreaStr() != viewModel.$text_field.val()) {
-                        viewModel.asyncFlag = false; // should be true
+                        viewModel.asyncFlag = true; // should be true
                         viewModel.token(viewModel.token().slice(0, viewModel.token().length-1));
                         var charBeingRemoved = viewModel.textAreaStr().slice(viewModel.textAreaStr().length-1, viewModel.textAreaStr().length);
                         viewModel.textAreaStr(viewModel.textAreaStr().slice(0, viewModel.textAreaStr().length-1));
@@ -130,6 +133,9 @@ var KeyHandler = {
                         viewModel.token('');
                         break;
                   case '.':
+                        KeyHandler.punctuation(keyVal);
+                        viewModel.token(viewModel.token()+keyVal);
+                        break;
                   case '?':
                         KeyHandler.punctuation(keyVal);
                         viewModel.token(viewModel.token()+keyVal);
