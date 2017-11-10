@@ -128,8 +128,11 @@ var viewModel = {
 
             var fileNameClicked = this;
             if (textLineData.nodes.length < 2) {
-
+                   //changes
                   viewModel.loadFile1(this);
+                //  $("text_field").load(ViewModel.textList);
+                  //var randomString= textLineData.addSentence(this);
+                  //viewModel.textList.push(randomString);
 
 
             }
@@ -148,6 +151,8 @@ var viewModel = {
                                  textLineData.clearAll();
                                  viewModel.textList([]);
                                  viewModel.loadFile1(fileNameClicked);
+                                 //var randomString= textLineData.addSentence(this);
+                                 //viewModel.textList.push(randomString);
                                  $( this ).dialog( "close" );
                             }
                         },
@@ -195,6 +200,7 @@ var viewModel = {
                   success: function(data, textStatus, jqXHR)
                   {
                         SuccessHelper.loadSingleTextFile(data, textStatus, jqXHR);
+                        //viemModel.textAreaStr(data);
 
                   },
                   error: function (jqXHR, textStatus, errorThrown)
@@ -202,7 +208,30 @@ var viewModel = {
                         alert("Failed JSON object input when loading file: \n "+errorThrown);
                   }
             });
+
+
+          //  $.ajax({
+                //  url : "/peng/",
+                  //type: "GET",
+                  //data : jsonObj,
+                  //success: function(data, textStatus, jqXHR)
+                  //{
+
+                    //    $("#text_field").load(ViewModel.textList);
+
+                  //},
+                  //error: function (jqXHR, textStatus, errorThrown)
+                  //{
+                    //    alert("Failed JSON object input when loading file: \n "+errorThrown);
+                  //}
+            //});
+
+
       },
+
+
+
+
 
 
       updateLookUpTable: function() {
@@ -302,7 +331,7 @@ var viewModel = {
                   }
 
                   if(json.hasOwnProperty('spelling suggestions') || (json.lookahead.length == 0 && !json.hasOwnProperty('asp'))) {
-                        viewModel.allowInput = false;
+                        viewModel.allowInput = true;
                         var lAhead = Lookahead.createLookaheadTable(Lookahead);
                         lAhead = Lookahead.addStrInHeadForEachCatInLookahead(word, lAhead);
 
@@ -387,6 +416,11 @@ keyHandler: function(d, e) {
       return KeyHandler.keyUpdate(d, e);
 },
 
+//fullStopHandler: function(keyVal)
+//{
+  //KeyHandler.punctuation(keyVal);
+  //viewModel.token(viewModel.token()+keyVal);
+//},
 
 backSpaceHandler: function(d, e) {
       KeyHandler.backspace(d, e);
